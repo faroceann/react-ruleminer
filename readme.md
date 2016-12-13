@@ -31,9 +31,9 @@ pip install pyzmq
 pip install zerorpc
 
 # Clone the repo
-$ git clone https://github.com/maxhammad/react-ruleminer.git
-$ cd ruleminer
-$ npm install
+git clone https://github.com/maxhammad/react-ruleminer.git
+cd ruleminer
+npm install
 ```
 
 
@@ -62,15 +62,15 @@ sudo pip install pyzmq
 sudo pip install zerorpc
 
 # Clone the repo
-$ git clone https://github.com/maxhammad/react-ruleminer.git
-$ cd ruleminer
-$ npm install
+git clone https://github.com/maxhammad/react-ruleminer.git
+cd ruleminer
+npm install
 ```
 
 ##### Install via git clone
 
 ```bash
-$ git clone https://github.com/maxhammad/react-ruleminer.git
-$ cd ruleminer
-$ npm install
+git clone https://github.com/maxhammad/react-ruleminer.git
+cd ruleminer
+npm install
 ```
