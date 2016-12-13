@@ -1,7 +1,7 @@
-ruleminer Client
+React ruleminer
 ==========================================
 
-This is a full stack Node/Python/ZeroRPC/Express/React app for performing association rule discovery in the browser. It allows a user to upload a CSV file of itemsets, set minimum confidence and minimum support values and then view mined association rules from the data in a sortable table. It is intended to demo use of the [ruleminer API](https://github.com/maxhammad/ruleminer) that I developed, which uses a Python implementation of the Apriori algorithm that talks to a Node.js server via ZeroRPC. The ruleminer API project is bundled in with this project. 
+This is a full stack Node.js/Python/ZeroRPC/Express/React.js app for performing association rule discovery in the browser. It allows a user to upload a CSV file of itemsets, set minimum confidence and minimum support values and then view mined association rules in a sortable table. It is intended to demo use of the [ruleminer API](https://github.com/maxhammad/ruleminer) that I developed, which uses a Python implementation of the Apriori algorithm that talks to a Node.js server via ZeroRPC. The ruleminer API project is bundled in with this project.
 
 
 ## System Dependencies
@@ -30,7 +30,7 @@ pip install pyzmq
 pip install zerorpc
 
 # Clone the repo
-$ git clone https://github.com/maxhammad/ruleminer.git
+$ git clone https://github.com/maxhammad/react-ruleminer.git
 $ cd ruleminer
 $ npm install
 ```
@@ -61,7 +61,7 @@ sudo pip install pyzmq
 sudo pip install zerorpc
 
 # Clone the repo
-$ git clone https://github.com/maxhammad/ruleminer.git
+$ git clone https://github.com/maxhammad/react-ruleminer.git
 $ cd ruleminer
 $ npm install
 ```
@@ -69,7 +69,7 @@ $ npm install
 ##### Install via git clone
 
 ```bash
-$ git clone https://github.com/maxhammad/ruleminer.git
+$ git clone https://github.com/maxhammad/react-ruleminer.git
 $ cd ruleminer
 $ npm install
 ```
