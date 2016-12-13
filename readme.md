@@ -3,6 +3,7 @@ React ruleminer
 
 This is a full stack Node.js/Python/ZeroRPC/Express/React.js app for performing association rule discovery in the browser. It allows a user to upload a CSV file of itemsets, set minimum confidence and minimum support values and then view mined association rules in a sortable table. It is intended to demo use of the [ruleminer API](https://github.com/maxhammad/ruleminer) that I developed, which uses a Python implementation of the Apriori algorithm that talks to a Node.js server via ZeroRPC. The ruleminer API project is bundled in with this project.
 
+[Test out the demo here](http://ruleminer.maxhammad.com/)
 
 ## System Dependencies
 * Python3
