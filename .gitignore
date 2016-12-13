@@ -12,3 +12,5 @@ npm-debug.log
 
 # Personal scripts 
 preprocess.py
+
+.DS_STORE
