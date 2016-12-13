@@ -1,0 +1,20 @@
+#container {
+  max-width: 700px;
+  margin: 0px auto; }
+
+.chart-nav {
+  margin-bottom: 1em; }
+
+input.file-input {
+  display: none; }
+
+.upload-form button.choose-file {
+  display: block;
+  margin: 0px auto;
+  margin-bottom: 1.3em; }
+
+.upload-form .jumbotron {
+  text-align: center; }
+
+.navbar-default .navbar-brand {
+  font-weight: 200; }
